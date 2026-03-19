@@ -8,16 +8,16 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'Saurabh Saxena | Senior Software Engineer',
-  description: 'Senior Software Engineer with 7+ years of experience in full-stack development, specializing in Python and building innovative solutions.',
-  generator: 'v0.app',
+  description: 'Senior Software Engineer with 6+ years of experience in python development, specializing in Python and Google Cloud Platform solutions.',
+  generator: 'Saurabh Saxena',
   icons: {
     icon: [
       {
-        url: '/icon.svg',
+        url: 'public/favicon-96x96.png',
         media: '(prefers-color-scheme: light)',
       },
       {
-        url: '/icon.svg',
+        url: 'public/favicon-96x96.png',
         media: '(prefers-color-scheme: dark)',
       },
       {
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
         type: 'image/svg+xml',
       },
     ],
-    apple: '/icon.svg',
+    apple: '/favicon-96x96.png',
   },
 }
 
